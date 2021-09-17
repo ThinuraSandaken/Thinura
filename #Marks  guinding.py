@@ -1,5 +1,5 @@
 #mark guiding
-print("Please enjoy this programe!!!)
+print("Enjoy this programe!!!)
 mark = input("Please enter your English mark:\n")
 
 mark = int(mark)
