@@ -1,4 +1,4 @@
-#mark guiding
+#mark grading
 print("Enjoy this programe!!!)
 mark = input("Please enter your English mark:\n")
 
