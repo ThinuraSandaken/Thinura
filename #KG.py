@@ -2,7 +2,7 @@ import tkinter as tk
 
 OptionList1 = [
 "KG",
-"GR",
+"g",
 
 ]
 
